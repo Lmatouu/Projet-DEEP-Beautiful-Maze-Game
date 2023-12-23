@@ -1,0 +1,1 @@
+Design and creation of a maze whose orientation is controlled by servomotors. The player interacts with pushbuttons to control the servomotors. The project was carried out using a Blue Pill (STM32) programmed in C language.
